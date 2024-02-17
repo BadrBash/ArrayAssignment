@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Array Assignment\bin\Debug\net7.0\Array Assignment.exe
+C:\Users\User\Desktop\Array Assignment\bin\Debug\net7.0\Array Assignment.deps.json
+C:\Users\User\Desktop\Array Assignment\bin\Debug\net7.0\Array Assignment.runtimeconfig.json
+C:\Users\User\Desktop\Array Assignment\bin\Debug\net7.0\Array Assignment.dll
+C:\Users\User\Desktop\Array Assignment\bin\Debug\net7.0\Array Assignment.pdb
+C:\Users\User\Desktop\Array Assignment\obj\Debug\net7.0\Array Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Array Assignment\obj\Debug\net7.0\Array Assignment.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Array Assignment\obj\Debug\net7.0\Array Assignment.AssemblyInfo.cs
+C:\Users\User\Desktop\Array Assignment\obj\Debug\net7.0\Array Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Array Assignment\obj\Debug\net7.0\Array Assignment.dll
+C:\Users\User\Desktop\Array Assignment\obj\Debug\net7.0\refint\Array Assignment.dll
+C:\Users\User\Desktop\Array Assignment\obj\Debug\net7.0\Array Assignment.pdb
+C:\Users\User\Desktop\Array Assignment\obj\Debug\net7.0\Array Assignment.genruntimeconfig.cache
+C:\Users\User\Desktop\Array Assignment\obj\Debug\net7.0\ref\Array Assignment.dll
